@@ -19,5 +19,4 @@ public class CircleCalculator {
    input.close();
 
   }
-
 }
